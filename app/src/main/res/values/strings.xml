@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="txt_already_have_account">Already have an account?</string>
+    <string name="txt_no_account_signup">Forgot Password<font color="#2196F3"> Click here</font></string>
+</resources>
